@@ -6,3 +6,4 @@ let x = 68
 
 console.log(x)
 
+console.log(x + hi)
